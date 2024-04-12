@@ -5,6 +5,7 @@ package hu.bme.mit.spaceship;
 *
 */
 //Change on branch-A
+//change on branch-B
 public enum FiringMode {
   SINGLE, ALL
 }
